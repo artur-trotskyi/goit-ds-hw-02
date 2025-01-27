@@ -5,7 +5,7 @@ description = "GoIT, Homework #2, Task Manager"
 authors = ["artur.trotskyi <artur.trotskyi@ukr.net>"]
 license = "MIT"
 readme = "README.md"
-packages = [{ include = "task-manager" }]
+packages = [{ include = "task_manager" }]
 
 [tool.poetry.dependencies]
 python = "3.12.8"

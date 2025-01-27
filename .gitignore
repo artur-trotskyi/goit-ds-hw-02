@@ -173,4 +173,4 @@ cython_debug/
 .vscode
 .idea
 
-*.pkl
+task_manager/data/*.db
